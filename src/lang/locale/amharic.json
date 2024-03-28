@@ -1,0 +1,131 @@
+{
+  "navbar": {
+    "message": "hello, china",
+    "pleaseEnter": "please enter content",
+    "title": "ሸመታ ሸቀጥ",
+    "banana": "banana",
+    "button":"ይለጥፉ",
+    "amharic":"አማርኛ"
+    
+  },
+  "sidebar": {
+    "message": "hello, china",
+    "pleaseEnter": "please enter content",
+    "apple": "Amharic",
+    "banana": "banana"
+  },
+  "browser": {
+    "divider": "አዲስ የሚመጡ ምርቶች",
+    "mostTrending":"በጣም በመታየት ላይ ያሉ",
+    "searchProduct":"ምርቶችን እዚህ ይፈልጉ",
+    "results":"ውጤቶች",
+    "searchInput":"የምርት ስም አስገባ",
+    "banana": "banana",
+    "banner-top":"የሚሸጥ ነገር አግኝተዋል?",
+    "banner-bottom":"በነጻ ማስታወቂያ ይለጥፉ"
+  },
+  "category": {
+    "category": "ምድቦች",
+    "location":"አካባቢ",
+    "price":"በብር ዋጋ"
+
+  },
+  "profile":{
+    "my-save":"ገንዘብ ያግኙ",
+     "advert":"ማስታወቂያዎች",
+     "performance":"አፈጻጸም",
+     "feedback":"አስተያየት",
+     "follower":"ተከታይ",
+     "frequenctly-question":"ተደጋግሞ የሚነሱ ጥያቄዎች",
+     "notification":"ማሳወቂያዎች",
+     "setting":"ቅንብር",
+     "my-advert":"የእኔ ማስታወቂያ",
+     "my-follower":"ተከታዮቼ",
+      "following":"መከተል",
+      "followee":"Followee"
+  },
+  "auth":{
+    "login":"ግባ",
+    "username":"ልዩ ስም",
+    "Dont you have an account ?":"መለያ የለህም ?",
+    "Create free account":"ነፃ መለያ ይፍጠሩ",
+    "Sign in with Google":"በGoogle ይግቡ",
+    "or Sign in with Email":"ወይም በኢሜል ይግቡ",
+    "email":"ኢሜይል",
+    "password":"የይለፍ ቃል",
+    "Remember me":"አስታወስኝ",
+    "Forgot Password?":"መክፈቻ ቁልፉን ረሳኽው?",
+    "Register":"ይመዝገቡ",
+    "Already have an account ?":"መለያ አለህ?",
+    "Sign in":"ግባ",
+    "your name":"የአንተ ስም",
+    "policy":"የአገልግሎት እና የግላዊነት ፖሊሲን እቀበላለሁ።",
+    "comfirm-password":"የይለፍ ቃል አረጋግጥ"
+
+
+
+
+},
+
+"post_detail":{
+  "show_contact":"አድራሻ አሳይ",
+  "start_chat":"ውይይት ጀምር",
+  "safety_tips":"የደህንነት ምክሮች",
+  "safety_tips_1":"ማድረስን ጨምሮ በቅድሚያ አይክፈሉ።",
+  "safety_tips_2":"ደህንነቱ በተጠበቀ የህዝብ ቦታ ከሻጩ ጋር ይገናኙ::",
+  "safety_tips_3":"እርካታን ለማረጋገጥ እቃዎቹን በደንብ ይመርምሩ::",
+  "safety_tips_4":"ሲረኩ ብቻ ይክፈሉ።",
+  "post_add_like":"ፖስት አክል እንደዚህ ",
+  "mark_unavailable":"የማይገኝ ምልክት ያድርጉ",
+  "mark_available":"እንዳለ ምልክት አድርግበት",
+  "edit":"አስተካክል",
+  "report_abuse":"የአላግባብ መጠቀም ሪፖርት",
+  "request_call_back":"መልሶ መደወልን ይጠይቁ",
+  "replies_a_day":"በአንድ ቀን ውስጥ የተለመዱ ምላሾች",
+  "your_message":"መልእክትህን እዚህ ጻፍ",
+  "views":"እይታዎች",
+  "similar_ads":"ተመሳሳይ ማስታወቂያዎች",
+  "available":"ይገኛል",
+  "unavailable":"አይገኝም",
+  "hidden":"ተደብቋል",
+  "unhidden":"ያልተደበቀ",
+  "unhide":"አትደብቅ",
+  "hide":"መደበቅ",
+  "available_conform":"እርግጠኛ ነዎት ይህን ምርት እንዲገኝ ማድረግ ይፈልጋሉ?",
+  "unavailable_conform":"እርግጠኛ ነህ ይህ ምርት እንዳይገኝ ማድረግ ትፈልጋለህ?",
+  "hide_conform":"እርግጠኛ ነህ ይህን ምርት መደበቅ ትፈልጋለህ?",
+  "unhide_conform":"እርግጠኛ ነዎት ይህን ምርት እንዳይደብቅ ማድረግ ይፈልጋሉ?",
+  "edit_confirm":"እርግጠኛ ነዎት ይህን ማስታወቂያ ማረም ይፈልጋሉ?"
+},
+
+"common":{
+  "search":"ፍለጋ"
+},
+
+"filter":{
+  "clear_location_filter":"የአካባቢ ማጣሪያን ያጽዱ",
+  "clear_price_filter":"የዋጋ ማጣሪያን ያጽዱ",
+  "clear_filter":"ማጣሪያን አጽዳ",
+  "on_this_category":"በዚህ ምድብ ላይ",
+  "sort_by":"ቅደምተከተሉ የተስተካከለው",
+  "all_ethiopia":"መላ ኢትዮጵያ"
+},
+"footer":{
+  "megenagna":"መገናኛ",
+  "empower":"ግንኙነቶችን ማጎልበት፡ ያግኙ፣ ይገናኙ እና ከሻጮች ጋር በቀጥታ ይግዙ!",
+  "helpSupport":"እርዳታ እና ድጋፍ",
+  "contactus":"አግኙን",
+  "information":"መረጃ",
+  "postAdvert":"ማስታወቂያ ይለጥፉ",
+  "browseItems":"ዕቃዎችን ያስሱ",
+  "addToWishList":"የምኞት ዝርዝርዎ ውስጥ ይጨምሩ",
+  "browseSellers":"ሻጮችን ያስሱ",
+  "giveReport":"ሪፖርት አቅርቡ",
+  "ourStory":"ታሪካችን",
+  "carriers":"ሙያዎች",
+  "gotQue":"ጥያቄ አለኝ",
+  "callUs":"ይደውሉልን",
+  "location":"አዲስ አበባ  ኢትዮጵያ"
+
+}
+}

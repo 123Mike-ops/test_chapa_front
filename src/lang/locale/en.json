@@ -1,0 +1,139 @@
+{
+    "navbar": {
+        "message": "hello, china",
+        "pleaseEnter": "please enter content",
+        "title": "Online Shoping",
+        "banana": "banana",
+        "button":"post",
+        "amharic":"Amharic"
+    },
+    "sidebar": {
+        "message": "hello, china",
+        "pleaseEnter": "please enter content",
+        "apple": "apple2",
+        "banana": "banana"
+    },
+    "browser": {
+        "message": "hello, china",
+        "pleaseEnter": "please enter content",
+        "divider": "New Comming",
+        "mostTrending":"Trending",
+        "searchProduct":"Search Product here..",
+        "searchInput":"input product name",
+        "results":"Results",
+        "banana": "banana",
+        "banner-top":"Got Something to Sell?",
+        "banner-bottom":"Post An Advert For Free"
+    },
+    "category": {
+        "category": "Categories",
+        "location": "Location",
+        "price":"Price With Birr"
+   
+    },
+    "auth":{
+        "login":"Login",
+        "username":"username",
+        "Dont you have an account ?":"Dont you have an account ?",
+        "Create free account":"Create free account",
+        "Sign in with Google":"Sign in with Google",
+        "Sign in with Facebook":"Sign in with Facebook",
+        "or Sign in with Email":"or Sign in with Email",
+        "email":"email",
+        "password":"password",
+        "Remember me":"Remember me",
+        "Forgot Password?":"Forgot Password?",
+        "Register":"Register",
+        "Already have an account ?":"Already have an account ?",
+        "Sign in":"Sign in",
+        "your name":"your name",
+        "policy":"I accept terms of Service & Privacy Policy.",
+        "comfirm-password":"Comfirm Password"
+
+
+
+    },
+
+    "profile":{
+        "my-save":"My Save",
+         "advert":"Advert",
+         "performance":"Performance",
+         "feedback":"Feedback",
+         "follower":"Followers",
+         "frequenctly-question":"Frequenctly asked questions",
+         "notification":"Notifications",
+         "setting":"Setting",
+         "my-advert":"My Advert",
+         "my-follower":"My Follower",
+         "my-following":"My Follower",
+         "following":"Followering",
+         "followee":"Followee"
+      },
+
+      "post_detail":{
+        "show_contact":"Show Contact",
+        "start_chat":"Start Chat",
+        "safety_tips":"Safety tips",
+        "safety_tips_1":"Don't pay in advance, including for delivery.",
+        "safety_tips_2":"Meet the seller at a safe public place.",
+        "safety_tips_3":"Inspect the goods thoroughly to ensure you're satisfied.",
+        "safety_tips_4":"Only pay when you're satisfied",
+        "post_add_like":"Post Add Like this ",
+        "mark_unavailable":"Mark Unavailable",
+        "mark_available":"Mark Available",
+        "edit":"Edit",
+        "report_abuse":"Report Abuse",
+        "request_call_back":"Request Call Back",
+        "replies_a_day":"Typical Replies with in a day",
+        "your_message":"Write your message her",
+        "views":"Views",
+        "similar_ads":"Similar Ads",
+        "available":"Available",
+        "unavailable":"Unavailable",
+        "mark_hide":"Mark Hide",
+        "mark_unhide":"Mark Unhide",
+        "hide":"Hide",
+        "unhide":"Unhide",
+        "hidden":"Hidden",
+        "unhidden":"Unhidden",
+        "available_conform":"are you sure, you want to make available this product?",
+        "unavailable_conform":"are you sure, you want to make unavailable this product?",
+        "hide_conform":"are you sure, you want to make hide this product?",
+        "unhide_conform":"are you sure, you want to make unhide this product?",
+        "edit_confirm":"Are you sure you want to edit this ad?"
+      },
+
+      "common":{
+        "search":"Search"
+      },
+
+      "filter":{
+        "clear_location_filter":"Clear Location Filter",
+        "clear_price_filter":"Clear Price Filter",
+        "clear_filter":"Clear Filter",
+        "on_this_category":"On This Category",
+        "sort_by":"Sort by",
+        "all_ethiopia":"All Ethiopia",
+        "lowset_price_first":"Lowset Price First",
+        "new_post_first":"Newest Post First"
+      },
+      "footer":{
+        "megenagna":"Megenagna",
+        "empower":"Megenagna online shopping platform facilitates seamless connections between buyers and sellers, creating an efficient and user-friendly marketplace experience.",
+        "helpSupport":"Help and Support",
+        "contactus":"Contact Us",
+        "information":"Information",
+        "postAdvert":"Post Advert",
+        "browseItems":"Browse Items",
+        "addToWishList":"Add to Wishlist",
+        "browseSellers":"Browse Sellers",
+        "giveReport":"Give Report",
+        "ourStory":"Our Story",
+       "carriers":"Careers",
+      "gotQue":"Got Queations",
+      "callUs":"Call Us",
+      "location":"Addis Ababa, Ethiopia"
+
+
+      }
+}

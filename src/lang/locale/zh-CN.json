@@ -1,0 +1,70 @@
+{
+    "navbar": {
+        "message": "你好，中国",
+        "pleaseEnter": "请输入内容",
+        "title": "网上购物",
+        "banana": "香蕉",
+        "button":"发表它"
+    },
+    "sidebar": {
+        "message": "你好，中国",
+        "pleaseEnter": "请输入内容",
+        "apple": "苹果2",
+        "banana": "香蕉"
+    },
+    "browser": {
+        "message": "你好，中国",
+        "pleaseEnter": "请输入内容",
+        "divider": "新来的",
+        "mostTrending":"最热门",
+        "searchProduct":"在这里搜索产品..",
+        "searchInput":"插入产品名称",
+        "results":"结果",
+        "banana": "香蕉",
+        "banner-top":"有东西要卖吗？",
+        "banner-bottom":"免费发布广告"
+    },
+    "category": {
+        "category": "类别",
+        "location":"地点",
+        "price":"按价格比尔"
+   
+    },
+    "auth":{
+        "login":"登录",
+        "username":"獨特的名字",
+        "Dont you have an account ?":"没有账户 ?",
+        "Create free account":"创建一个免费帐户",
+        "Sign in with Google":"使用谷歌登录",
+        "or Sign in with Email":"或使用电子邮件登录",
+        "email":"电子邮件",
+        "password":"密码",
+        "Remember me":"记住账号",
+        "Forgot Password?":"忘记密码？",
+        "Register":"登记",
+        "Already have an account ?":"已经有帐户？",
+        "Sign in":"登入",
+        "your name":"你的名字",
+        "policy":"我接受服务条款和隐私政策。",
+        "comfirm-password":"确认密码"
+
+
+
+    },
+    "profile":{
+        "my-save":"挣钱",
+         "advert":"广告",
+         "performance":"表现",
+         "feedback":"反馈",
+         "follower":"追随者",
+         "frequenctly-question":"经常问的问题",
+         "notification":"通知",
+         "setting":"环境",
+         "my-advert":"我的广告"
+         ,
+        "my-follower":"我的追随者",
+        "my-following":"下列的",
+        "followering":"下列的"
+      }
+
+}

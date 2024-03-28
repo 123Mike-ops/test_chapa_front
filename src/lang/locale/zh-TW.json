@@ -1,0 +1,32 @@
+{
+    "navbar": {
+        "message": "你好，中國",
+        "pleaseEnter": "請輸入内容",
+        "apple": "蘋果1",
+        "banana": "香蕉"
+    },
+    "sidebar": {
+        "message": "你好，中國",
+        "pleaseEnter": "請輸入内容",
+        "apple": "蘋果2",
+        "banana": "香蕉"
+    },
+    "browser": {
+        "message": "你好，中國",
+        "pleaseEnter": "請輸入内容",
+        "apple": "蘋果3",
+        "banana": "香蕉"
+    },
+
+    "profile":{
+        "my-save":"挣钱",
+         "advert":"广告",
+         "performance":"表现",
+         "feedback":"反馈",
+         "follower":"追随者",
+         "frequenctly-question":"经常问的问题",
+         "notification":"通知",
+         "setting":"环境",
+         "my-advert":"我的广告"
+      }
+}
